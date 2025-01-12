@@ -1,5 +1,7 @@
-.blackbg {
+.inverted {
     background-color: #000000;
-    border: none;
     color: white;
+}
+.yellow {
+    background-color: yellow;
 }
