@@ -1,10 +1,10 @@
 .oddone {
     background-color: #FF3377;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #bluetext {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
