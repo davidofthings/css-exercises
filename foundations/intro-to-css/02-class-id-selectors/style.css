@@ -11,3 +11,9 @@
 .font {
     font-size: 24px;
 }
+
+#boldandgreen {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #35FA00;
+}
